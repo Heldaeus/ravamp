@@ -1,5 +1,5 @@
 # Ravamp :art:
-A Ravenfield ReShade preset designed to revamp the in-game appearance of default maps!
+A Ravenfield ReShade preset designed to revamp the in-game appearance of the default maps!
 
 ![](./Images/hero.jpg)
 
