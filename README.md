@@ -25,7 +25,7 @@ This is a relatively hefty preset with 14 total shaders being applied. Performan
 
 #### Installing
 
-1. [Download](https://github.com/Heldaeus/ravamp/releases/tag/v1.0) the latest release of this repository.
+1. [Download](https://github.com/Heldaeus/ravamp/releases/) the latest release of this repository.
 2. Unzip the downloaded folder and copy `ravamp.ini` into your Ravenfield directory.
 3. Launch Ravenfield and select the preset in the ReShade dialogue.
 4. Enjoy!
