@@ -50,7 +50,7 @@ If you have an issue with this preset or an idea for improvements please conside
 
 <br/>
 
-## Before and After
+## Before and After :last_quarter_moon:
 
 #### Coastline
 
