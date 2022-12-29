@@ -32,9 +32,7 @@ This is a relatively hefty preset with 14 total shaders being applied. Performan
 
 ## Help
 
-> This preset is too dark, how do I make it brighter?
-
-If the specular highlights are too bright or muted you can adjust this easily with the ‘PD80_03_Shadows_Midtones_Highlights.fx’ shader. Under ‘Highlight Adjustments’ select ‘Color’ and within the color picker dialogue you can adjust the brightness of the sampled color.
+*Currently* there are no issues open, if you’re having a problem or need help, open an issue here or reach out to [me on Reddit](https://www.reddit.com/user/Heldaeus)!
 
 <br/>
 
