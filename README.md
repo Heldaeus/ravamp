@@ -28,9 +28,7 @@ This is a relatively hefty preset with 14 total shaders being applied. Performan
 3. Launch Ravenfield and select the preset in the ReShade dialogue.
 4. Enjoy!
 
-<br/>
-
-## Help
+#### Help
 
 *Currently* nobody has mentioned any trouble with using this preset, if you’re having a problem or need help, open an issue here or reach out to [me on Reddit](https://www.reddit.com/user/Heldaeus)!
 
