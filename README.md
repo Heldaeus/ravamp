@@ -46,6 +46,12 @@ If the specular highlights are too bright or muted you can adjust this easily wi
 
 <br/>
 
+## Contributing
+
+If you have an issue with this preset or an idea for improvements please consider opening a feature request in the issues tab. Describe the problem you’re experiencing and we can collaborate on improvements!
+
+<br/>
+
 ## Before and After
 
 #### Coastline
