@@ -11,7 +11,7 @@ I designed this preset with the goal of refining the in-game appearance of Raven
 
 My goal is to simply and subjectively enhance Ravenfield while honoring the default vibe of the game.
 
-#### <span style="color:#F78166">Warning</span>
+#### Warning
 
 This is a relatively hefty preset with 14 total shaders being applied. Performance may vary from machine to machine.
 
