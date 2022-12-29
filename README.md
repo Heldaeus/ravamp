@@ -43,3 +43,27 @@ If the specular highlights are too bright or muted you can adjust this easily wi
 - **1.0**
   - Initial release.
   - I have like 40 hours in the game and 30 of them went to making this preset lol
+
+<br/>
+
+## Before and After
+
+#### Coastline
+
+![Coastline Before/After](./Images/coastlineBefAft.png)
+
+#### Galcier
+
+![Glacier Before/After](./Images/glacierBefAft.png)
+
+#### Citadel
+
+![Citadel Before/After](./Images/citadelBefAft.png)
+
+#### Desert Hill
+
+![Desert Hill Before/After](./Images/desertHillBefAft.png)
+
+#### Fall of Berlin 2140
+
+![Fall of Berlin Before/After](./Images/fobBefAft.png)
