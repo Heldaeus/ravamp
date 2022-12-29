@@ -56,17 +56,25 @@ If you have an issue with this preset or an idea for improvements please conside
 
 ![Coastline Before/After](./Images/coastlineBefAft.png)
 
+---
+
 #### Galcier
 
 ![Glacier Before/After](./Images/glacierBefAft.png)
+
+---
 
 #### Citadel
 
 ![Citadel Before/After](./Images/citadelBefAft.png)
 
+---
+
 #### Desert Hill
 
 ![Desert Hill Before/After](./Images/desertHillBefAft.png)
+
+---
 
 #### Fall of Berlin 2140
 
