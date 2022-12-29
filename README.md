@@ -9,6 +9,8 @@ A Ravenfield ReShade preset designed to revamp the appearance of default maps an
 
 I designed this preset with the goal of refining the in-game appearance of Ravenfield. There is nothing but love for the game here but I’m sure we can all agree the default appearance has… *quirks*. This config, in my opinion, ameliorates these quirks, makes the base game less visually fatiguing and more enjoyable to play.
 
+My goal is to simply and subjectively enhance Ravenfield while honoring the default vibe of the game.
+
 #### Warning
 
 This is a relatively hefty preset with 14 total shaders being applied. Performance may vary from machine to machine.
