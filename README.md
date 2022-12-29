@@ -32,7 +32,7 @@ This is a relatively hefty preset with 14 total shaders being applied. Performan
 
 ## Help
 
-*Currently* there are no issues open, if you’re having a problem or need help, open an issue here or reach out to [me on Reddit](https://www.reddit.com/user/Heldaeus)!
+*Currently* nobody has mentioned any trouble with using this preset, if you’re having a problem or need help, open an issue here or reach out to [me on Reddit](https://www.reddit.com/user/Heldaeus)!
 
 <br/>
 
