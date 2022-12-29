@@ -1,4 +1,4 @@
-# Ravamp
+# Ravamp :art:
 A Ravenfield ReShade preset designed to revamp the appearance of default maps and more!
 
 ![](./Images/hero.jpg)
@@ -7,7 +7,7 @@ A Ravenfield ReShade preset designed to revamp the appearance of default maps an
 
 ## Description
 
-I designed this preset with the intention of maturing the in-game appearance of Ravenfield. There is nothing but love for the game here but I’m sure we can all agree the default appearance has… *quirks*. This config, in my opinion, ameliorates these quirks, makes the base game far more enjoyable to play and less visually fatiguing.
+I designed this preset with the goal of refining the in-game appearance of Ravenfield. There is nothing but love for the game here but I’m sure we can all agree the default appearance has… *quirks*. This config, in my opinion, ameliorates these quirks, makes the base game less visually fatiguing and more enjoyable to play.
 
 #### Warning
 
@@ -15,7 +15,7 @@ This is a relatively hefty preset with 14 total shaders being applied. Performan
 
 <br/>
 
-## Getting Started
+## Getting Started :rocket:
 
 #### Dependencies
 
@@ -23,7 +23,7 @@ This is a relatively hefty preset with 14 total shaders being applied. Performan
 
 #### Installing
 
-1. Download the latest release of this repository.
+1. [Download](https://github.com/Heldaeus/ravamp/releases/tag/v1.0) the latest release of this repository.
 2. Unzip the downloaded folder and copy `ravamp.ini` into your Ravenfield directory.
 3. Launch Ravenfield and select the preset in the ReShade dialogue.
 4. Enjoy!
@@ -32,11 +32,13 @@ This is a relatively hefty preset with 14 total shaders being applied. Performan
 
 ## Help
 
+> This preset is too dark, how do I make it brighter?
+
 If the specular highlights are too bright or muted you can adjust this easily with the ‘PD80_03_Shadows_Midtones_Highlights.fx’ shader. Under ‘Highlight Adjustments’ select ‘Color’ and within the color picker dialogue you can adjust the brightness of the sampled color.
 
 <br/>
 
-## Version History
+## Version History :clock4:
 
 - **1.0**
   - Initial release.
