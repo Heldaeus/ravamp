@@ -13,7 +13,7 @@ My goal is to simply and subjectively enhance Ravenfield while honoring the defa
 
 #### Warning
 
-This is a relatively hefty preset with 14 total shaders being applied. Performance may vary from machine to machine.
+This is a relatively hefty preset with 14 total shaders being applied! Performance may vary from machine to machine.
 
 <br/>
 
@@ -49,7 +49,7 @@ This is a relatively hefty preset with 14 total shaders being applied. Performan
 
 ## Contributing
 
-If you have an issue with this preset or an idea for improvements please consider opening a feature request in the issues tab. Describe the problem you’re experiencing and we can collaborate on improvements!
+If you have an issue with this preset or an idea for improvements please consider opening a feature request in the issues tab. Describe the problem you’re experiencing and we can collaborate on solutions!
 
 <br/>
 
