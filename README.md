@@ -13,7 +13,7 @@ My goal is to simply and subjectively enhance Ravenfield while honoring the defa
 
 #### Warning
 
-This is a relatively hefty preset with 14 total shaders being applied! Performance may vary from machine to machine.
+This is a relatively hefty preset with 14 total effects being applied! Performance may vary from machine to machine.
 
 <br/>
 
@@ -32,7 +32,13 @@ This is a relatively hefty preset with 14 total shaders being applied! Performan
 
 #### Help
 
-*Currently* nobody has mentioned any trouble with using this preset, if you’re having a problem or need help, open an issue here or reach out to [me on Reddit](https://www.reddit.com/user/Heldaeus)!
+> The preset looks different on my screen than in your screen-shots.
+
+Make sure you have every effect selected when you install ReShade. If all effects are installed but the preset still looks off then clear your effect cache; ReShade > Settings > Clear Effect Cache. If after this you’re still having troubles I recommend reinstalling ReShade.
+
+> I installed the preset but there is a upside outline of my weapon on the screen. How do I fix this?
+
+If you’re having this problem you need to change the `RESHADE_DEPTH_INPUT_IS_UPSIDE_DOWN` setting in your global preprocessor definitions from 0 to 1.
 
 <br/>
 
