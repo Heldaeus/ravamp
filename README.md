@@ -47,12 +47,6 @@ This is a relatively hefty preset with 14 total shaders being applied! Performan
 
 <br/>
 
-## Contributing
-
-If you have an issue with this preset or an idea for improvements please consider opening a feature request in the issues tab. Describe the problem you’re experiencing and we can collaborate on solutions!
-
-<br/>
-
 ## Before and After :last_quarter_moon:
 
 <br/>
@@ -68,3 +62,9 @@ If you have an issue with this preset or an idea for improvements please conside
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Fall of Berlin 2140 Before/After" src="./Images/fobBefAft.png" width="45%">
 </p>
+
+<br/>
+
+## Contributing
+
+If you have an issue with this preset or an idea for improvements please consider opening a feature request in the issues tab. Describe the problem you’re experiencing and we can collaborate on solutions!
