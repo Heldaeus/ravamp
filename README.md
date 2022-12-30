@@ -1,5 +1,5 @@
 # Ravamp :art:
-A Ravenfield ReShade preset designed to revamp the in-game appearance of the default maps!
+A Ravenfield ReShade preset designed to revamp the in-game experience!
 
 ![](./Images/hero.jpg)
 
@@ -36,7 +36,7 @@ This is a relatively hefty preset with 14 total effects being applied! Performan
 
 Make sure you have every effect selected when you install ReShade. If all effects are installed but the preset still looks off then clear your effect cache; ReShade > Settings > Clear Effect Cache. If after this you’re still having troubles I recommend reinstalling ReShade.
 
-> I installed the preset but there is a upside outline of my weapon on the screen. How do I fix this?
+> I installed the preset but there is an upside-down outline of my weapon on the screen. How do I fix this?
 
 If you’re having this problem you need to change the `RESHADE_DEPTH_INPUT_IS_UPSIDE_DOWN` setting in your global preprocessor definitions from 0 to 1.
 
