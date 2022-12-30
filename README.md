@@ -55,31 +55,16 @@ If you have an issue with this preset or an idea for improvements please conside
 
 ## Before and After :last_quarter_moon:
 
-#### Coastline
+<br/>
 
-![Coastline Before/After](./Images/coastlineBefAft.png)
+<p align="center">
+  <img alt="Glacer Before/After" src="./Images/glacierBefAft.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Desert Hill Before/After" src="./Images/desertHillBefAft.png" width="45%">
+</p>
 
----
-
-#### Galcier
-
-![Glacier Before/After](./Images/glacierBefAft.png)
-
----
-
-#### Citadel
-
-![Citadel Before/After](./Images/citadelBefAft.png)
-
----
-
-#### Desert Hill
-
-![Desert Hill Before/After](./Images/desertHillBefAft.png)
-
----
-
-#### Fall of Berlin 2140
-
-![Fall of Berlin Before/After](./Images/fobBefAft.png)
-
+<p align="center">
+  <img alt="Citadel Before/After" src="./Images/citadelBefAft.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Fall of Berlin 2140 Before/After" src="./Images/fobBefAft.png" width="45%">
+</p>
