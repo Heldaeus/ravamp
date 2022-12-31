@@ -45,7 +45,7 @@ If you’re having this problem you need to change the `RESHADE_DEPTH_INPUT_IS_U
 ## Version History :clock4:
 
 - **1.2** 
-  - I calibrated my monitor for better neutrality.
+  - I calibrated my monitor to achieve better neutrality.
   - The warm color cast was removed.
   - Contrast was tweaked for better texture detail.
   
