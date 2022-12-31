@@ -26,11 +26,16 @@ This is a relatively hefty preset with 14 total effects being applied! Performan
 #### Installing
 
 1. [Download](https://github.com/Heldaeus/ravamp/releases/) the latest release of this repository.
-2. Unzip the downloaded folder and copy `ravamp.ini` into your Ravenfield directory.
-3. Launch Ravenfield and select the preset in the ReShade dialogue.
-4. Enjoy!
+2. Unzip the downloaded folder and copy `ravamp.ini` into your Ravenfield root directory.
+3. Run the game and press the `Home` key to open the ReShade menu.
+4. Click the preset selection menu at the top of the dialogue and select `ravamp.ini` from the drop down menu.
+5. Press `Select` and Enjoy!
 
 #### Help
+
+> How do I open Ravenfield’s root directory?
+
+Go to your Steam library and right click Ravenfield in the left side panel. Click `Properties` and in the pop up window select `Local Files` then click `Browse`.
 
 > The preset looks different on my screen than in your screen-shots.
 
@@ -82,3 +87,9 @@ This seems to be a bug with how Ravenfield or mods interact with ReShade. It is 
 ## Contributing :handshake:
 
 If you have an issue with this preset or an idea for improvements please consider opening a feature request in the issues tab. Describe the problem you’re experiencing and we can collaborate on solutions!
+
+<br/>
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
