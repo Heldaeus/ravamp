@@ -27,8 +27,8 @@ This is a relatively hefty preset with 14 total effects being applied! Performan
 
 1. [Download](https://github.com/Heldaeus/ravamp/releases/) the latest release of this repository.
 2. Unzip the downloaded folder and copy `ravamp.ini` into your Ravenfield root directory.
-3. Run the game and press the `Home` key to open the ReShade menu.
-4. Click the preset selection menu at the top of the dialogue and select `ravamp.ini` from the drop down menu.
+3. Run the game and press the `Home` key to open the ReShade overlay menu.
+4. Click the preset selection button at the top of the menu and select `ravamp.ini` from the drop down menu.
 5. Press `Select` and Enjoy!
 
 #### Help
