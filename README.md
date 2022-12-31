@@ -92,4 +92,4 @@ If you have an issue with this preset or an idea for improvements please conside
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the Creative Commons Zero v1.0 Universal license. See the LICENSE file for more information.
