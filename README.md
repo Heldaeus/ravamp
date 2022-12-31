@@ -44,9 +44,13 @@ If you’re having this problem you need to change the `RESHADE_DEPTH_INPUT_IS_U
 
 ## Version History :clock4:
 
+- **1.2** 
+  - I calibrated my monitor for better neutrality.
+  - The warm color cast was removed.
+  - Contrast was tweaked for better texture detail.
+  
 - **1.1**
   - Improve color tone for greenery and shadows.
-
 - **1.0**
   - Initial release.
   - I have like 40 hours in the game and 30 of them went to making this preset lol
