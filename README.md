@@ -40,6 +40,10 @@ Make sure you have every effect selected when you install ReShade. If all effect
 
 If you’re having this problem you need to change the `RESHADE_DEPTH_INPUT_IS_UPSIDE_DOWN` setting in your global preprocessor definitions from 0 to 1.
 
+> When in third person the bloom effects disappear.
+
+This seems to be a bug with how Ravenfield or mods interact with ReShade. It is possible that there is a setting that can be changed to fix this issue but I have not found it yet. I would consider re-installing ReShade and see if that fixes the problem.
+
 <br/>
 
 ## Version History :clock4:
