@@ -7,7 +7,9 @@ A Ravenfield ReShade preset designed to revamp the in-game experience!
 
 ## Description
 
-I designed this preset with the goal of refining the in-game appearance of Ravenfield. There is nothing but love for the game here but I’m sure we can all agree the default appearance has… *quirks*. This config, in my opinion, ameliorates these quirks, makes the base game less visually fatiguing and more enjoyable to play.
+I designed this preset with the intent of refining the in-game experience. I have a background as a photographer, editor, and colorist. The skills I developed in those occupations are what I bring to the table here.
+
+Now, I have nothing but love for Ravenfield but I’m sure most can agree the default appearance has… *quirks*. This config, in my opinion, ameliorates these quirks, makes the base game less visually fatiguing and more enjoyable to play.
 
 My goal is to simply and subjectively enhance Ravenfield while honoring the default vibe of the game.
 
@@ -26,16 +28,27 @@ This is a relatively hefty preset with 14 total effects being applied! Performan
 #### Installing
 
 1. [Download](https://github.com/Heldaeus/ravamp/releases/) the latest release of this repository.
-2. Unzip the downloaded folder and copy `ravamp.ini` into your Ravenfield root directory.
-3. Run the game and press the `Home` key to open the ReShade overlay menu.
-4. Click the preset selection button at the top of the menu and select `ravamp.ini`.
-5. Press `Select` and Enjoy!
+2. Unzip the downloaded folder and run `install.bat`.
+
+***OR***
+
+1. Manually copy `ravamp.ini` into your Ravenfield root directory.
+
+#### Usage
+
+1. Run the game and press the `Home` key to open the ReShade overlay menu.
+2. Click the preset selection button at the top of the menu and select `ravamp.ini`.
+3. Press `Select` and Enjoy!
 
 #### Help
 
+> How do I know `install.bat` isn’t malware?
+
+The source code for the script is freely viewable on this repository. You’re welcome and encouraged to vet the script before running it. If you still feel uncomfortable running a script written by a stranger on the internet (as you should) you can of course perform a manual installation of the configuration file.
+
 > How do I open Ravenfield’s root directory?
 
-Go to your Steam library and right click Ravenfield in the left side panel. Click `Properties` and in the pop up window select `Local Files` then click `Browse`.
+Go to your Steam library and right click Ravenfield in the left side panel. Click `Properties` from the drop-down and in the pop up window select the `Local Files` tab then click `Browse`.
 
 > The preset looks different on my screen than in your screen-shots.
 
