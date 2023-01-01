@@ -66,16 +66,15 @@ This seems to be a bug with how Ravenfield or mods interact with ReShade. It is 
 
 ## Version History :clock4:
 
+- **1.3**
+  - Added script to automate installation.
+
 - **1.2** 
   - I calibrated my monitor to achieve better neutrality.
   - The warm color cast was removed.
   - Contrast was tweaked for better texture detail.
-  
 - **1.1**
   - Improve color tone for greenery and shadows.
-- **1.0**
-  - Initial release.
-  - I have like 40 hours in the game and 30 of them went to making this preset lol
 
 <br/>
 
