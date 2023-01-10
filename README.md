@@ -1,7 +1,10 @@
 # Ravamp :art:
 A Ravenfield ReShade preset designed to revamp the in-game experience!
 
-![](./Images/hero.jpg)
+<p>
+    <img src="./Images/hero.jpg" alt>
+    <em>Note: Screenshots of the preset are out of date and don't perfectly resemble the latest release.</em>
+</p>
 
 <br/>
 
@@ -52,15 +55,15 @@ Go to your Steam library and right click Ravenfield in the left side panel. Clic
 
 > The preset looks different on my screen than in your screen-shots.
 
-Make sure you have every effect selected when you install ReShade. If all effects are installed but the preset still looks off then clear your effect cache; ReShade > Settings > Clear Effect Cache. If after this you’re still having troubles I recommend reinstalling ReShade.
+My game’s quality settings were set to the absolute maximum, consider doing the same if your machine can handle it. Make sure you have every effect selected when you install ReShade. If all effects are installed but the preset still looks off then clear your effect cache; ReShade > Settings > Clear Effect Cache. If after this you’re still having troubles I recommend reinstalling ReShade.
 
 > I installed the preset but there is an upside-down outline of my weapon on the screen. How do I fix this?
 
 If you’re having this problem you need to change the `RESHADE_DEPTH_INPUT_IS_UPSIDE_DOWN` setting in your global preprocessor definitions from 0 to 1.
 
-> When in third person the bloom effects disappear.
+> When in third person the scene’s contrast appears to increase.
 
-This seems to be a bug with how Ravenfield or mods interact with ReShade. It is possible that there is a setting that can be changed to fix this issue but I have not found it yet. I would consider re-installing ReShade and see if that fixes the problem.
+This is caused by the MXAO effect and how it calculates depth. In first person this filter applies ambient occlusion primarily on your body, weapons, and items but when in third person objects that didn’t previously have the effect (grass, trees, rocks, etc.) are now given it. This results in the appearance of higher contrast.
 
 <br/>
 
