@@ -1,5 +1,5 @@
 # Ravamp :art:
-A Ravenfield ReShade preset designed to revamp the in-game experience!
+A Ravenfield ReShade preset designed to revamp the in-game experience! (This is a for-fun repository for me, yes it’s over the top for a ReShade preset, that is the point!)
 
 <p>
     <img src="./Images/hero.jpg" alt>
@@ -39,19 +39,19 @@ This is a relatively hefty preset with 14 total effects being applied! Performan
 
 #### Usage
 
-1. Run the game and press the `Home` key to open the ReShade overlay menu.
+1. Run the game and press the <kbd>Home</kbd> key to open the ReShade overlay menu.
 2. Click the preset selection button at the top of the menu and select `ravamp.ini`.
-3. Press `Select` and Enjoy!
+3. Press <kbd>Select</kbd> and Enjoy!
 
 #### Help
 
 > How do I know `install.bat` isn’t malware?
 
-The source code for the script is freely viewable on this repository. You’re welcome and encouraged to vet the script before running it. If you still feel uncomfortable running a script written by a stranger on the internet (as you should) you can of course perform a manual installation of the configuration file.
+The source code for the script is freely viewable on this repository. You’re welcome and encouraged to vet the script before running it. If you still feel uncomfortable running a script written by a stranger on the Internet (as you should) you can of course perform a manual installation of the configuration file.
 
 > How do I open Ravenfield’s root directory?
 
-Go to your Steam library and right click Ravenfield in the left side panel. Click `Properties` from the drop-down and in the pop up window select the `Local Files` tab then click `Browse`.
+Go to your Steam library and right click Ravenfield in the left side panel. Click <kbd>Properties</kbd> from the drop-down and in the pop up window select the <kbd>Local Files tab</kbd> then click <kbd>Browse</kbd>.
 
 > The preset looks different on my screen than in your screen-shots.
 
